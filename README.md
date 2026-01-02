@@ -1,33 +1,16 @@
 # 2026 CFP Roster Analysis
 
+
+<img width="544" height="644" alt="image" src="https://github.com/user-attachments/assets/c06a3bdc-3314-4708-a091-f4a4755632f0" />
+
+
 https://observablehq.com/d/b75f544fd96c0e3f@6
 
-View this notebook in your browser by running a web server in this folder. For
-example:
+Overview
+Visualizes 2026 College Football Playoff teams roster orgins.
 
-~~~sh
-npx http-server
-~~~
+Data
+Data from collegefootballdata.com
 
-Or, use the [Observable Runtime](https://github.com/observablehq/runtime) to
-import this module directly into your application. To npm install:
-
-~~~sh
-npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/b75f544fd96c0e3f@6.tgz?v=3
-~~~
-
-Then, import your notebook and the runtime as:
-
-~~~js
-import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "b75f544fd96c0e3f";
-~~~
-
-To log the value of the cell named “foo”:
-
-~~~js
-const runtime = new Runtime();
-const main = runtime.module(define);
-main.value("foo").then(value => console.log(value));
-~~~
+License
+MIT License — free to reuse with attribution.
