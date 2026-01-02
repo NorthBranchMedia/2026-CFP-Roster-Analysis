@@ -1,0 +1,14 @@
+{
+  "name": "b75f544fd96c0e3f",
+  "main": "b75f544fd96c0e3f@6.js",
+  "version": "6.0.0",
+  "homepage": "https://observablehq.com/d/b75f544fd96c0e3f",
+  "author": {
+    "name": "North Branch Media",
+    "url": "https://observablehq.com/@nbm"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
