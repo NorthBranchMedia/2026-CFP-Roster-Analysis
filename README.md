@@ -7,7 +7,7 @@
 https://observablehq.com/d/b75f544fd96c0e3f@6
 
 Overview
-Visualizes 2026 College Football Playoff teams roster orgins.
+Visualizes 2026 College Football Playoff teams roster orgins. Please note, I may have stopped paying for the API at the time of viewing. Access viz by adding in free updated API key from https://collegefootballdata.com/key.
 
 Data
 Data from collegefootballdata.com
